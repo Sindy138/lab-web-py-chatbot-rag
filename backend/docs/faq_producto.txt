@@ -1,0 +1,71 @@
+FAQ - TECHNOVA PLATFORM (Producto Principal de TechNova Solutions)
+===================================================================
+
+¿QUÉ ES TECHNOVA PLATFORM?
+----------------------------
+TechNova Platform es una suite de gestión empresarial en la nube que integra CRM, ERP y herramientas de analítica avanzada en una sola plataforma. Está diseñada para empresas medianas y grandes que necesitan centralizar sus operaciones.
+
+¿CUÁLES SON LOS PLANES DISPONIBLES?
+-------------------------------------
+- Plan Starter: hasta 10 usuarios, módulos CRM y facturación. Precio: 49€/mes.
+- Plan Business: hasta 50 usuarios, todos los módulos excepto analítica avanzada. Precio: 199€/mes.
+- Plan Enterprise: usuarios ilimitados, todos los módulos, soporte 24/7 dedicado. Precio: desde 799€/mes (personalizado según necesidades).
+- Plan Nonprofit: descuento del 40% sobre cualquier plan para organizaciones sin ánimo de lucro.
+
+¿QUÉ MÓDULOS INCLUYE LA PLATAFORMA?
+--------------------------------------
+- CRM: gestión de clientes, pipeline de ventas, seguimiento de leads.
+- ERP: contabilidad, gestión de inventario, compras.
+- RRHH: gestión de nóminas, vacaciones, onboarding.
+- Analítica: dashboards personalizables, informes automáticos, BI integrado.
+- Proyectos: gestión ágil de proyectos con tableros Kanban y Gantt.
+- Comunicaciones: chat interno, videoconferencias y gestión documental.
+
+¿TECHNOVA PLATFORM ES COMPATIBLE CON OTRAS HERRAMIENTAS?
+----------------------------------------------------------
+Sí, TechNova Platform tiene integraciones nativas con:
+- Microsoft 365 y Google Workspace
+- Salesforce (migración de datos)
+- Stripe y PayPal (pagos)
+- Zapier (automatizaciones)
+- API REST disponible para integraciones personalizadas
+- Webhooks para eventos en tiempo real
+
+¿DÓNDE ESTÁN ALOJADOS LOS DATOS?
+-----------------------------------
+Los datos se alojan en centros de datos europeos certificados ISO 27001 y conformes con el RGPD.
+Opciones disponibles: España (Madrid), Alemania (Fráncfort) o Países Bajos (Ámsterdam).
+Los clientes Enterprise pueden solicitar instancia privada (on-premise o cloud dedicado).
+
+¿QUÉ MEDIDAS DE SEGURIDAD TIENE LA PLATAFORMA?
+-------------------------------------------------
+- Cifrado en tránsito (TLS 1.3) y en reposo (AES-256).
+- Autenticación multifactor (MFA) obligatoria para todos los usuarios.
+- SSO compatible con SAML 2.0 y OpenID Connect.
+- Auditoría completa de acciones de usuario.
+- Copias de seguridad automáticas cada 6 horas con retención de 90 días.
+- SLA de disponibilidad del 99.9% para planes Business y Enterprise.
+
+¿PUEDO PROBAR LA PLATAFORMA ANTES DE CONTRATAR?
+--------------------------------------------------
+Sí, ofrecemos una prueba gratuita de 14 días sin necesidad de tarjeta de crédito.
+La prueba incluye acceso completo al plan Business con 5 usuarios.
+Al finalizar la prueba, los datos se conservan durante 30 días adicionales por si se decide contratar.
+
+¿CÓMO FUNCIONA LA FACTURACIÓN?
+--------------------------------
+La facturación es mensual o anual (con un 20% de descuento pagando anualmente).
+Se acepta tarjeta de crédito, transferencia bancaria y SEPA para pagos domiciliados.
+Las facturas se generan automáticamente y se envían por email el primer día de cada mes.
+
+¿QUÉ SOPORTE TÉCNICO ESTÁ INCLUIDO?
+--------------------------------------
+- Plan Starter: soporte por email en horario laboral (respuesta en 48h).
+- Plan Business: soporte por email y chat en horario laboral (respuesta en 4h).
+- Plan Enterprise: soporte 24/7 por email, chat y teléfono, gestor de cuenta dedicado.
+
+¿PUEDO EXPORTAR MIS DATOS SI DECIDO CANCELAR?
+------------------------------------------------
+Sí, en cualquier momento puedes exportar todos tus datos en formatos CSV, Excel o JSON.
+Tras la cancelación, los datos están disponibles para exportar durante 60 días.
+Ofrecemos un servicio de migración asistida sin coste para clientes Enterprise.

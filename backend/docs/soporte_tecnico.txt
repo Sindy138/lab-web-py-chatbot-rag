@@ -1,0 +1,107 @@
+GUÍA DE SOPORTE TÉCNICO - TECHNOVA SOLUTIONS
+=============================================
+
+1. CANALES DE SOPORTE
+----------------------
+- Portal de soporte: support.technova.es (disponible 24/7)
+- Email: support@technova.es
+- Chat en vivo: disponible desde el panel de la plataforma (planes Business y Enterprise)
+- Teléfono: +34 91 123 45 68 (solo plan Enterprise, disponible 24/7)
+- Comunidad de usuarios: community.technova.es
+
+2. TIEMPOS DE RESPUESTA POR SEVERIDAD
+--------------------------------------
+Severidad 1 - Crítica (sistema caído completamente):
+  - Plan Starter: respuesta en 24h
+  - Plan Business: respuesta en 2h
+  - Plan Enterprise: respuesta en 30 minutos, soporte 24/7
+
+Severidad 2 - Alta (funcionalidad principal afectada):
+  - Plan Starter: respuesta en 48h
+  - Plan Business: respuesta en 8h
+  - Plan Enterprise: respuesta en 2h
+
+Severidad 3 - Media (funcionalidad parcial afectada):
+  - Plan Starter: respuesta en 5 días hábiles
+  - Plan Business: respuesta en 2 días hábiles
+  - Plan Enterprise: respuesta en 8h
+
+Severidad 4 - Baja (consultas o mejoras menores):
+  - Todos los planes: respuesta en 5-10 días hábiles
+
+3. PROBLEMAS FRECUENTES Y SOLUCIONES
+--------------------------------------
+PROBLEMA: No puedo iniciar sesión
+SOLUCIÓN:
+  1. Verifica que el email y contraseña son correctos.
+  2. Comprueba si Bloq Mayús está activado.
+  3. Usa la opción "Olvidé mi contraseña" para resetearla.
+  4. Si tienes MFA activado, asegúrate de introducir el código correcto del autenticador.
+  5. Si el problema persiste, contacta a tu administrador de cuenta.
+
+PROBLEMA: La plataforma va lenta
+SOLUCIÓN:
+  1. Verifica tu conexión a internet (mínimo 10 Mbps recomendado).
+  2. Limpia la caché del navegador (Ctrl+Shift+Delete).
+  3. Prueba en modo incógnito o con otro navegador.
+  4. Comprueba el estado de los servicios en status.technova.es.
+  5. Si el problema persiste en múltiples dispositivos, contacta a soporte.
+
+PROBLEMA: No recibo emails de la plataforma
+SOLUCIÓN:
+  1. Revisa la carpeta de spam o correo no deseado.
+  2. Añade noreply@technova.es a tus contactos seguros.
+  3. Verifica que el email configurado en tu perfil es correcto.
+  4. Si usas filtros corporativos, solicita a IT que permita el dominio technova.es.
+
+PROBLEMA: Error al importar datos (CSV/Excel)
+SOLUCIÓN:
+  1. Verifica que el archivo sigue la plantilla de importación disponible en "Ayuda > Plantillas".
+  2. Comprueba que no hay caracteres especiales o celdas fusionadas.
+  3. El tamaño máximo de archivo para importación es 50MB.
+  4. Para archivos mayores, contacta a soporte para importación asistida.
+
+PROBLEMA: No puedo conectar la integración con terceros
+SOLUCIÓN:
+  1. Verifica que las credenciales API de la aplicación de terceros son correctas.
+  2. Asegúrate de que los permisos necesarios están concedidos en la aplicación de terceros.
+  3. Revisa el log de integraciones en "Configuración > Integraciones > Historial".
+  4. Consulta la guía específica de la integración en nuestra documentación.
+
+4. REQUISITOS DEL SISTEMA
+---------------------------
+Navegadores compatibles:
+  - Google Chrome (versión 90 o superior) - RECOMENDADO
+  - Mozilla Firefox (versión 88 o superior)
+  - Microsoft Edge (versión 90 o superior)
+  - Safari (versión 14 o superior)
+
+Aplicación móvil:
+  - iOS 14 o superior
+  - Android 9 o superior
+
+Conexión recomendada:
+  - Mínimo: 5 Mbps
+  - Recomendado: 20 Mbps o superior
+  - Para videoconferencias: mínimo 10 Mbps simétrico
+
+5. RECURSOS DE AUTO-AYUDA
+---------------------------
+- Centro de ayuda: help.technova.es con más de 500 artículos
+- Videotutoriales: youtube.com/technova (canal oficial)
+- Webinars de formación: cada martes a las 11:00h (registro en la web)
+- Documentación de API: developers.technova.es
+
+6. PROGRAMA DE BETA TESTERS
+-----------------------------
+Los clientes pueden unirse al programa de beta testers para probar nuevas funcionalidades antes de su lanzamiento oficial.
+Requisitos: plan Business o Enterprise con más de 6 meses de antigüedad.
+Inscripción: beta@technova.es
+
+7. CÓMO REPORTAR UN BUG
+-------------------------
+Para reportar un bug con el mayor detalle posible:
+1. Accede al portal de soporte en support.technova.es
+2. Haz clic en "Nuevo ticket > Reportar un problema"
+3. Incluye: descripción del problema, pasos para reproducirlo, capturas de pantalla, navegador y versión
+4. Indica el impacto en tu negocio para asignar la prioridad correcta

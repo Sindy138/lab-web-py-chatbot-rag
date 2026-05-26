@@ -1,0 +1,106 @@
+PLANES Y PRECIOS DETALLADOS - TECHNOVA SOLUTIONS
+=================================================
+
+COMPARATIVA DE PLANES
+----------------------
+
+PLAN STARTER - 49€/mes (o 39€/mes con pago anual)
+  Usuarios: hasta 10
+  Almacenamiento: 10 GB
+  Módulos incluidos:
+    ✓ CRM básico (hasta 5.000 contactos)
+    ✓ Facturación y presupuestos
+    ✓ Gestión de tareas
+    ✗ ERP
+    ✗ RRHH avanzado
+    ✗ Analítica BI
+    ✗ Videoconferencias
+  Soporte: email (respuesta en 48h)
+  Integraciones: hasta 3 integraciones activas
+  API: acceso limitado (500 llamadas/día)
+
+PLAN BUSINESS - 199€/mes (o 159€/mes con pago anual)
+  Usuarios: hasta 50
+  Almacenamiento: 100 GB
+  Módulos incluidos:
+    ✓ CRM completo (contactos ilimitados)
+    ✓ Facturación y contabilidad completa
+    ✓ Gestión de tareas y proyectos
+    ✓ ERP (inventario, compras)
+    ✓ RRHH (nóminas, vacaciones)
+    ✓ Gestión documental
+    ✗ Analítica BI avanzada
+    ✗ Soporte prioritario
+  Soporte: email y chat en horario laboral (respuesta en 4h)
+  Integraciones: ilimitadas
+  API: 5.000 llamadas/día
+  SLA: 99.9% disponibilidad garantizada
+
+PLAN ENTERPRISE - desde 799€/mes (precio personalizado)
+  Usuarios: ilimitados
+  Almacenamiento: desde 1 TB (ampliable)
+  Módulos incluidos: TODOS
+    ✓ Todos los módulos del plan Business
+    ✓ Analítica BI avanzada y dashboards personalizados
+    ✓ IA integrada (predicciones de ventas, análisis de sentimiento)
+    ✓ Automatizaciones avanzadas y workflows personalizados
+    ✓ Gestión multi-empresa / multi-sede
+    ✓ Auditoría avanzada y compliance (SOC 2, ISO 27001)
+    ✓ Entorno de staging/sandbox incluido
+  Soporte: 24/7 con gestor de cuenta dedicado (respuesta en 30min para críticos)
+  Integraciones: ilimitadas + integraciones personalizadas a medida
+  API: llamadas ilimitadas
+  SLA: 99.95% disponibilidad garantizada con penalizaciones
+
+PLAN NONPROFIT - descuento del 40% sobre cualquier plan
+  Requisitos: ser una organización sin ánimo de lucro debidamente registrada
+  Documentación requerida: certificado de entidad sin ánimo de lucro
+  Proceso: contactar con ventas en sales@technova.es con el asunto "NONPROFIT"
+
+MÓDULOS ADICIONALES (add-ons)
+------------------------------
+- Analítica BI avanzada: +79€/mes (disponible para Plan Business)
+- Usuarios adicionales (por encima del límite): 8€/usuario/mes
+- Almacenamiento adicional: 15€ por cada 50 GB adicionales
+- Marca blanca (white-label): +299€/mes (solo Enterprise)
+- Servidor dedicado: precio bajo consulta
+- Implementación asistida: desde 1.500€ (pago único)
+- Formación presencial (por día): 800€
+
+DESCUENTOS DISPONIBLES
+------------------------
+- Pago anual: 20% de descuento sobre el precio mensual
+- Startups (menos de 2 años y menos de 10 empleados): 30% de descuento el primer año
+- Clientes que migren desde la competencia: 3 meses gratis
+- Referidos: 1 mes gratis para ambas partes (el referidor y el nuevo cliente)
+- Sector educativo: 25% de descuento permanente con acreditación
+
+PRECIOS ANTERIORES Y ACTUALES
+-------------------------------
+Los precios indicados están vigentes desde el 1 de enero de 2024.
+Los clientes con contratos firmados antes de esa fecha mantienen su precio hasta la renovación.
+Cualquier cambio de precios se comunica con 60 días de antelación.
+
+FORMA DE PAGO
+--------------
+- Tarjeta de crédito o débito (Visa, Mastercard, American Express)
+- Transferencia bancaria (disponible desde Plan Business)
+- Domiciliación SEPA (disponible desde Plan Business)
+- Factura a 30 días (solo Plan Enterprise con evaluación de crédito previa)
+
+MONEDAS DISPONIBLES
+--------------------
+- Euro (€) - Europa
+- Dólar mexicano (MXN) - México
+- Peso colombiano (COP) - Colombia
+- Dólar estadounidense (USD) - otros países
+
+PROCESO DE CONTRATACIÓN
+-------------------------
+1. Solicitar demostración gratuita en technova.es/demo
+2. Prueba gratuita de 14 días (sin tarjeta de crédito)
+3. Reunión con un consultor de ventas (opcional pero recomendado para Enterprise)
+4. Selección de plan y forma de pago
+5. Onboarding asistido incluido en todos los planes
+
+Para presupuestos personalizados Enterprise: sales@technova.es o +34 91 123 45 66
